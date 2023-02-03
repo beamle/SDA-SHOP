@@ -1,1 +1,1 @@
-# pratical_project
+# practical_projects

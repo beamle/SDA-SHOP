@@ -1,1 +1,1 @@
-# practical_projects
+# Simple shop
